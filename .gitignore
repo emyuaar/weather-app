@@ -1,0 +1,5 @@
+echo __pycache__/ > .gitignore
+echo cert.pem >> .gitignore
+echo key.pem >> .gitignore
+echo *.pyc >> .gitignore
+echo *.pyo >> .gitignore
